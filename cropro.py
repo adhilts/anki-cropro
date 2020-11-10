@@ -28,7 +28,7 @@ from anki.notes import Note
 ### BEGIN OPTIONS
 #############################################################################
 
-MAX_DISPLAYED_NOTES = 100
+MAX_DISPLAYED_NOTES = 9999
 ENABLE_DEBUG_LOG = False
 
 #############################################################################
